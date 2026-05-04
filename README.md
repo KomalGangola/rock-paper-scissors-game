@@ -12,7 +12,7 @@ The player competes against the computer, and the score updates in real-time.
 ## 🔹 How to Play
 1. Click on **Rock**, **Paper**, or **Scissors**.
 2. The computer will choose randomly.
-3. The winner is decided instantly and the score updates.
+3. The winner is decided instantly and the score updates. 
 
 ## 🔹 Tech Stack
 - HTML5
